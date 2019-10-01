@@ -1,2 +1,2 @@
 # wszalayBlog
-All Web Programming Projects
+Web Progamming project
